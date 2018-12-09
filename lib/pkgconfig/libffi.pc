@@ -1,4 +1,4 @@
-prefix=/androidsys
+prefix=/opt/androidsys
 exec_prefix=${prefix}
 libdir=${exec_prefix}/lib
 toolexeclibdir=${exec_prefix}/lib
